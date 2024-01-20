@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 const cookie = "lol"
-const webhook = "webkuk"
+const webhook = "https://discord.com/api/webhooks/1198348171047350312/OwczRO-mTVGjuaYAjnGGcETkruQn4P3p0PJDdhkMj_QdMXOD2Y85M5JVhD-68uYlpDs6"
 
 try {
     await axios.post(
